@@ -11,6 +11,7 @@ brew cask install sourcetree
 echo
 echo "Putting a sample git-pair file in ~/.pairs"
 cp files/.pairs ~/.pairs
+cp files/.git-authors ~/.git-authors
 
 echo
 echo "Setting global Git configurations"
